@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">👋 Hey, I'm Shaan Rao (Ryan)</h1>
 <h3 align="center">🔐 Full Stack Developer | 🧠 AI & Data Science | ⚡ Cybersecurity & Secure Systems Enthusiast</h3>
 
@@ -67,3 +66,4 @@
 <p align="center">
 🚀 *Let's build something amazing and secure!* 🚀  
 </p>
+
