@@ -23,7 +23,7 @@
 🟩 JavaScript · 🐍 Python · 🧡 HTML/CSS
 
 **Frameworks & Tools:**  
-🌍 Node.js · ⚛ React · Flask · Express.js · Socket.IO  
+🌍 Node.js · ⚛ React · Express.js · Socket.IO  
 🛡 WebCrypto API · RSA-AES Hybrid Crypto · MongoDB
 
 **AI / Data Science:**  
@@ -66,4 +66,5 @@
 <p align="center">
 🚀 *Let's build something amazing and secure!* 🚀  
 </p>
+
 
