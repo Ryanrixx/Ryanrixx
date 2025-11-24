@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Ryan)</h1>
+<h1 align="center">👋 Hey, I'm Ryan</h1>
 <h3 align="center">🔐 Full Stack Developer | 🧠 AI & Data Science | ⚡ Cybersecurity & Secure Systems Enthusiast</h3>
 
 <p align="center">
@@ -66,6 +66,7 @@
 <p align="center">
 🚀 *Let's build something amazing and secure!* 🚀  
 </p>
+
 
 
 
