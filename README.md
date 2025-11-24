@@ -12,7 +12,7 @@
 - 👨‍💻 Passionate about AI, Backend Engineering & Full-Stack Applications
 - 📚 Currently learning **Advanced Cryptography + AI Integration**
 - 🤝 Open to collaborations on **real-time apps, secure messaging, and AI tools**
-- ✉ Reach me at: **shaanrao1002@gmail.com**
+- ✉ Reach me at: **ryanrao.dev@gmail.com**
 
 ---
 
@@ -66,6 +66,7 @@
 <p align="center">
 🚀 *Let's build something amazing and secure!* 🚀  
 </p>
+
 
 
 
