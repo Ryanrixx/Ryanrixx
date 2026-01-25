@@ -64,8 +64,9 @@
 ---
 
 <p align="center">
-🚀 *Let's build something amazing and secure!* 🚀  
+🚀 Let's build something amazing and secure! 🚀  
 </p>
+
 
 
 
