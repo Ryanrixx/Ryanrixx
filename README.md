@@ -1,4 +1,5 @@
-# Ryan Rixx 👋
+# Ryanrixx 👋
+### Ryan 
 
 Founder-minded **Full-Stack Developer** building production-grade web applications with clean architecture and real-world workflows.
 
@@ -61,3 +62,4 @@ A hiring & job-matching platform focused on:
 ---
 
 > I’m focused on building real products, learning through execution, and shipping systems that could actually be used.
+
