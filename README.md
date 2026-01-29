@@ -1,75 +1,63 @@
-<h1 align="center">👋 Hey, I'm Ryan</h1>
-<h3 align="center">🔐 Full Stack Developer | 🧠 AI & Data Science </h3>
+# Ryan Rixx 👋
 
-<p align="center">
-✨ Turning ideas into secure & smart software ✨
-</p>
+Founder-minded **Full-Stack Developer** building production-grade web applications with clean architecture and real-world workflows.
 
 ---
 
-### 🚀 About Me
-- 🧩 Building secure real-time systems using cryptography & communication protocols
-- 👨‍💻 Passionate about AI, Backend Engineering & Full-Stack Applications
-- 📚 Currently learning **Advanced Cryptography + AI Integration**
-- 🤝 Open to collaborations on **real-time apps, secure messaging, and AI tools**
-- ✉ Reach me at: **ryanrao.dev@gmail.com**
+## 🚀 Current Focus
+
+### **TalentGate**
+A hiring & job-matching platform focused on:
+- One evolving profile for job seekers
+- Role-based dashboards for employers
+- Secure authentication & protected routes
+- Scalable backend architecture
+- AI-assisted matching (planned)
+
+> Built incrementally with production discipline — not a demo project.
+
+🔗 Repository: https://github.com/Ryanrixx/TalentGate
 
 ---
 
-### 🔧 Tech Stack
-<p align="center">
-  
-**Languages:**  
-🟩 JavaScript · 🐍 Python · 🧡 HTML/CSS
-
-**Frameworks & Tools:**  
-🌍 Node.js · ⚛ React · Express.js · Socket.IO  
-🛡 WebCrypto API · RSA-AES Hybrid Crypto · MongoDB
-
-**AI / Data Science:**  
-🧠 NumPy · Pandas · Matplotlib · Machine Learning Basics
-
-</p>
+## 🧠 Engineering Philosophy
+- Build systems that scale, not just UIs
+- Keep logic explicit and explainable
+- AI should assist humans, not replace decisions
+- Ship features end-to-end (frontend ⇄ backend)
 
 ---
 
-### 📌 Featured Projects
+## 🛠 Tech Stack
 
-🔐 **[E2EE Chat App](https://github.com/Ryanrixx/E2EE-chat)**
-> End-to-End Encrypted Chat using WebCrypto + RSA-OAEP + AES-GCM + Socket.IO  
-> Secure browser-based messaging with cryptographic acknowledgement ✅
+**Frontend**
+- React, TypeScript
+- Tailwind CSS
+- React Router
 
-🕵️‍♂️ **[Flash Steganography](https://github.com/Ryanrixx/Flash-steganography-app)**
-> Hide encrypted messages inside images using LSB steganography  
-> Flask-based UI + Secure encode/decode 🔎
+**Backend**
+- Node.js, Express
+- MongoDB (Mongoose)
+- JWT Authentication
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ryanrixx&show_icons=true&theme=radical"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ryanrixx&theme=radical"/>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ryanrixx&theme=radical&no-frame=true&margin-w=10"/>
-</p>
+**Tooling**
+- Git & GitHub (feature-branch workflow)
+- WebStorm
+- MongoDB Compass
 
 ---
 
-### 🔥 Fun Extras
+## 📌 Selected Projects
 
-- 🎮 Gamer & Tech Explorer-
+- **TalentGate** — Full-stack hiring platform  
+- More projects coming as TalentGate evolves
 
 ---
 
-<p align="center">
-🚀 Let's build something amazing and secure! 🚀  
-</p>
+## 🌐 Links
+- Portfolio: https://ryanrixx.netlify.app
+- GitHub: https://github.com/Ryanrixx
 
+---
 
-
-
-
-
-
+> I’m focused on building real products, learning through execution, and shipping systems that could actually be used.
